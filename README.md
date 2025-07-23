@@ -1,12 +1,30 @@
 **System.out.print("Hello World! Me chamo Lucas Henrique Vicente dos Santos! 😄");**
 
-- 💻 Linguagens: Java e C#
+- 💻 Linguagens: Java, C# e JavaScript
 - 🛠️ Ferramentas: Git, GitHub, MySQL, Oracle SQL, VSCode, IntelliJ IDEA.
 - 🧠 Focado em: Back-End developer
 
 <div>
   <a href="https://github.com/LucasVicentee">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasVicentee&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasVicentee&show_icons=true&theme=dark&include_all_commits=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasVicentee&layout=compact&langs_count=16&theme=dark"/>
+  </a>
+</div>
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="Lucas-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="Lucas-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Lucas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Lucas-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  <img align="center" alt="Lucas-Oracle" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg">
+  <img align="center" alt="Lucas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Lucas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</div>
+
+##
+
+<div style="margin-top: 10px;">
+  <a href="https://www.linkedin.com/in/seu-usuario/" target="_blank">
+  <img src="https://www.linkedin.com/in/lucas-henrique-vicente-dos-santos-0766612b2/?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </div>
