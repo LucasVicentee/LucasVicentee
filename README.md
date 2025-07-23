@@ -24,7 +24,7 @@
 ##
 
 <div style="margin-top: 10px;">
-  <a href="https://www.linkedin.com/in/seu-usuario/" target="_blank">
-  <img src="https://www.linkedin.com/in/lucas-henrique-vicente-dos-santos-0766612b2/?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
+  <a href="https://www.linkedin.com/in/lucas-henrique-vicente-dos-santos-0766612b2/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
 </div>
