@@ -1,4 +1,4 @@
-**System.out.print("Hello World! Me chamo Lucas Henrique Vicente dos Santos! 😄");**
+**System.out.println("Hello World! Me chamo Lucas Henrique Vicente dos Santos! 😄");**
 
 - 💻 Linguagens: Java, C# e JavaScript
 - 👾 Banco de dados: MySQL e Oracle SQL
