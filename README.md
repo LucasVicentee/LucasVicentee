@@ -1,6 +1,6 @@
 **System.out.println("Hello World! Me chamo Lucas Henrique Vicente dos Santos! 😄");**
 
-- 💻 Linguagens: Java, C# e JavaScript
+- 💻 Linguagens: Java, C# e JavaScript 
 - 👾 Banco de dados: MySQL e Oracle SQL
 - 🛠️ Ferramentas: Git, GitHub, VSCode, IntelliJ IDEA.
 - 🧠 Focado em: Back-End developer
