@@ -1,3 +1,5 @@
+<img src="https://github.com/user-attachments/assets/17409bd1-b7a4-4a0e-b7c0-4d6c210bcfeb" alt="Imagem" style="width:70%; max-width:700px; margin:auto; display:block;" />
+
 **System.out.println("Hello World! Me chamo Lucas Henrique Vicente dos Santos! 😄");**
 
 - 💻 Linguagens: Java, C# e JavaScript 
