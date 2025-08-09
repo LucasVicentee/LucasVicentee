@@ -2,6 +2,7 @@
 
 **System.out.println("Hello World! Me chamo Lucas Henrique Vicente dos Santos! 😄");**
 
+- Curso: Análise e Desenvolvimento de Sistemas.
 - 💻 Linguagens: Java, C# e JavaScript.
 - 👾 Banco de dados: MySQL e Oracle SQL.
 - 🛠️ Ferramentas: Git, GitHub, VSCode, IntelliJ IDEA.
