@@ -5,7 +5,7 @@
 - Curso: Análise e Desenvolvimento de Sistemas.
 - 💻 Linguagens: Java, C# e JavaScript.
 - 👾 Banco de dados: MySQL e Oracle SQL.
-- 🛠️ Ferramentas: Git, GitHub, VSCode, IntelliJ IDEA.
+- 🛠️ Ferramentas: Git, GitHub, Visual Studio Code, IntelliJ IDEA e Visual Studio.
 - 🧠 Focado em: Full-Stack developer.
 
 <div>
