@@ -6,7 +6,7 @@
 - 💻 Linguagens: Java, C# e JavaScript.
 - 👾 Banco de dados: MySQL e Oracle SQL.
 - 🛠️ Ferramentas: Git, GitHub, VSCode, IntelliJ IDEA.
-- 🧠 Focado em: Back-End developer.
+- 🧠 Focado em: Full-Stack developer.
 
 <div>
   <a href="https://github.com/LucasVicentee">
