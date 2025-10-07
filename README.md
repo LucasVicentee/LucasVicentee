@@ -20,6 +20,7 @@
 <a href="https://drive.google.com/file/d/1VOFFQB4538mB5Yr2AanFIaDgDi50WaLx/view?usp=sharing" target="_blank">
   <img src="./Certificados/CertificadoCursoOracleUdemy.png" width="100px" alt="Certificado Curso Oracle - Udemy">
 </a>
+
 <a href="https://drive.google.com/file/d/1bmY_-5jBQT8aYwO0V4BjDJLDuBbGmol7/view?usp=sharing" target="_blank">
   <img src="./Certificados/CertificadoCursoJavaUdemy.png" width="100px" alt="Certificado Java COMPLETO - Udemy">
 </a>
