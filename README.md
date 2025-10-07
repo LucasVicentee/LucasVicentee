@@ -26,7 +26,7 @@
 </a>
 
 <a href="https://drive.google.com/file/d/1bmY_-5jBQT8aYwO0V4BjDJLDuBbGmol7/view?usp=sharing" target="_blank">
-  <img src="./Certificados/CertificadoCursoJavaUdemy.png" width="100px" alt="Certificado Java COMPLETO - Udemy">
+  <img src="./Certificados/CertificadoCursoJavaUdemy.png" width="100" style="border: none;" alt="Certificado Java COMPLETO - Udemy">
 </a>
 
 ### 👨‍💻 Tecnologias que eu Utilizo
