@@ -15,12 +15,6 @@
   </a>
 </div>
 
-### 🏅 Certificado — Java COMPLETO (Udemy)
-
-<a href="https://drive.google.com/file/d/SEU_ID_DO_CERTIFICADO/view" target="_blank">
-  <img src="https://drive.google.com/uc?id=SEU_ID_DA_IMAGEM" width="300px" alt="Certificado Java COMPLETO - Udemy">
-</a>
-
 <div style="display: inline_block"><br>
   <img align="center" alt="Lucas-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Lucas-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
