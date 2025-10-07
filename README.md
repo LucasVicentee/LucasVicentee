@@ -17,6 +17,10 @@
 
 ### 🏅 Certificados
 
+<a href="https://drive.google.com/file/d/1OipNefJiwoCi5cZx6Bu0G0yUFFktnSQ5/view?usp=sharing" target="_blank">
+  <img src="./Certificados/CertificadoCursoBancoDeDadosMySqlUdemy.png" width="100px" alt="Certificado Curso Banco de Dados MySQL - Udemy">
+</a>
+
 <a href="https://drive.google.com/file/d/1VOFFQB4538mB5Yr2AanFIaDgDi50WaLx/view?usp=sharing" target="_blank">
   <img src="./Certificados/CertificadoCursoOracleUdemy.png" width="100px" alt="Certificado Curso Oracle - Udemy">
 </a>
