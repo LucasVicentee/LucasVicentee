@@ -18,7 +18,7 @@
 ### 🏅 Certificado — Java COMPLETO (Udemy)
 
 <a href="https://drive.google.com/file/d/1bmY_-5jBQT8aYwO0V4BjDJLDuBbGmol7/view?usp=sharing" target="_blank">
-  <img src="https://drive.google.com/uc?export=view&id=1bmY_-5jBQT8aYwO0V4BjDJLDuBbGmol7" width="300px" alt="Certificado Java COMPLETO - Udemy">
+  <img src="https://i.imgur.com/u5QNOOE.png" width="300px" alt="Certificado Java COMPLETO - Udemy">
 </a>
 
 <div style="display: inline_block"><br>
