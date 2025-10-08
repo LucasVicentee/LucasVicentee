@@ -16,18 +16,24 @@
 </div>
 
 ### 🏅 Certificados
-<div style="display: flex; gap: 10px; align-items: center;">
-  <a href="https://drive.google.com/uc?id=1OipNefJiwoCi5cZx6Bu0G0yUFFktnSQ5" target="_blank" style="text-decoration: none;">
-    <img src="./Certificados/CertificadoCursoBancoDeDadosMySqlUdemy.png" width="100" style="border:none; outline:none;">
-  </a>
+<div style="text-align: center;">
+  <span>
+    <a href="https://drive.google.com/uc?id=1OipNefJiwoCi5cZx6Bu0G0yUFFktnSQ5" target="_blank" style="text-decoration:none;">
+      <img src="./Certificados/CertificadoCursoBancoDeDadosMySqlUdemy.png" width="100" style="border:none; outline:none;">
+    </a>
+  </span>
 
-  <a href="https://drive.google.com/uc?id=1VOFFQB4538mB5Yr2AanFIaDgDi50WaLx" target="_blank" style="text-decoration: none;">
-    <img src="./Certificados/CertificadoCursoOracleUdemy.png" width="100" style="border:none; outline:none;">
-  </a>
+  <span>
+    <a href="https://drive.google.com/uc?id=1VOFFQB4538mB5Yr2AanFIaDgDi50WaLx" target="_blank" style="text-decoration:none;">
+      <img src="./Certificados/CertificadoCursoOracleUdemy.png" width="100" style="border:none; outline:none;">
+    </a>
+  </span>
 
-  <a href="https://drive.google.com/uc?id=1bmY_-5jBQT8aYwO0V4BjDJLDuBbGmol7" target="_blank" style="text-decoration: none;">
-    <img src="./Certificados/CertificadoCursoJavaUdemy.png" width="100" style="border:none; outline:none;">
-  </a>
+  <span>
+    <a href="https://drive.google.com/uc?id=1bmY_-5jBQT8aYwO0V4BjDJLDuBbGmol7" target="_blank" style="text-decoration:none;">
+      <img src="./Certificados/CertificadoCursoJavaUdemy.png" width="100" style="border:none; outline:none;">
+    </a>
+  </span>
 </div>
 
 ### 👨‍💻 Tecnologias que eu Utilizo
