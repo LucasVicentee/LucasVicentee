@@ -16,25 +16,19 @@
 </div>
 
 ### 🏅 Certificados
-<div style="display: flex; gap: 20px; align-items: center;">
-  <p>
-    <a href="https://drive.google.com/uc?id=1OipNefJiwoCi5cZx6Bu0G0yUFFktnSQ5" target="_blank">
-      <img src="./Certificados/CertificadoCursoBancoDeDadosMySqlUdemy.png" width="100" style="border:none; outline:none;">
-    </a>
-  </p>
+<div style="display: flex; gap: 20px; justify-content: center; align-items: center;">
+  <a href="https://drive.google.com/uc?id=1OipNefJiwoCi5cZx6Bu0G0yUFFktnSQ5" target="_blank">
+    <img src="./Certificados/CertificadoCursoBancoDeDadosMySqlUdemy.png" width="100" style="border:none; outline:none;">
+  </a>
 
-  <p>
-    <a href="https://drive.google.com/uc?id=1VOFFQB4538mB5Yr2AanFIaDgDi50WaLx" target="_blank">
-      <img src="./Certificados/CertificadoCursoOracleUdemy.png" width="100" style="border:none; outline:none;">
-    </a>
-  </p>
+  <a href="https://drive.google.com/uc?id=1VOFFQB4538mB5Yr2AanFIaDgDi50WaLx" target="_blank">
+    <img src="./Certificados/CertificadoCursoOracleUdemy.png" width="100" style="border:none; outline:none;">
+  </a>
 
-  <p>
-    <a href="https://drive.google.com/uc?id=1bmY_-5jBQT8aYwO0V4BjDJLDuBbGmol7" target="_blank">
-      <img src="./Certificados/CertificadoCursoJavaUdemy.png" width="100" style="border:none; outline:none;">
-    </a>
-  </p>
-</div> 
+  <a href="https://drive.google.com/uc?id=1bmY_-5jBQT8aYwO0V4BjDJLDuBbGmol7" target="_blank">
+    <img src="./Certificados/CertificadoCursoJavaUdemy.png" width="100" style="border:none; outline:none;">
+  </a>
+</div>
 
 ### 👨‍💻 Tecnologias que eu Utilizo
 <div style="display: inline_block"><br>
