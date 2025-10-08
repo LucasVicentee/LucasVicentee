@@ -21,7 +21,7 @@
   <img src="./Certificados/CertificadoCursoBancoDeDadosMySqlUdemy.png" width="100" alt="Certificado Curso Banco de Dados MySQL - Udemy">
 </a>
 
-
+<a href="https://drive.google.com/uc?id=1VOFFQB4538mB5Yr2AanFIaDgDi50WaLx" target="_blank">
   <img src="./Certificados/CertificadoCursoOracleUdemy.png" width="100" alt="Certificado Curso Oracle - Udemy">
 </a>
 
