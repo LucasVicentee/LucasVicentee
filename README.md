@@ -16,25 +16,18 @@
 </div>
 
 ### 🏅 Certificados
-<div style="text-align: center;">
-  <div style="display: flex; margin: 0 5px;">
-    <a href="https://drive.google.com/uc?id=1OipNefJiwoCi5cZx6Bu0G0yUFFktnSQ5" target="_blank" style="text-decoration:none;">
-      <img src="./Certificados/CertificadoCursoBancoDeDadosMySqlUdemy.png" width="100" style="border:none; outline:none;">
-    </a>
-  </div>
 
-  <div style="display: flex; margin: 0 5px;">
-    <a href="https://drive.google.com/uc?id=1VOFFQB4538mB5Yr2AanFIaDgDi50WaLx" target="_blank" style="text-decoration:none;">
-      <img src="./Certificados/CertificadoCursoOracleUdemy.png" width="100" style="border:none; outline:none;">
-    </a>
-  </div>
+<a href="https://drive.google.com/uc?id=1OipNefJiwoCi5cZx6Bu0G0yUFFktnSQ5" target="_blank">
+  <img src="./Certificados/CertificadoCursoBancoDeDadosMySqlUdemy.png" width="100" alt="Certificado Curso Banco de Dados MySQL - Udemy">
+</a>
 
-  <div style="display: flex; margin: 0 5px;">
-    <a href="https://drive.google.com/uc?id=1bmY_-5jBQT8aYwO0V4BjDJLDuBbGmol7" target="_blank" style="text-decoration:none;">
-      <img src="./Certificados/CertificadoCursoJavaUdemy.png" width="100" style="border:none; outline:none;">
-    </a>
-  </div>
-</div>
+<a href="https://drive.google.com/uc?id=1VOFFQB4538mB5Yr2AanFIaDgDi50WaLx" target="_blank">
+  <img src="./Certificados/CertificadoCursoOracleUdemy.png" width="100" alt="Certificado Curso Oracle - Udemy">
+</a>
+
+<a href="https://drive.google.com/uc?id=1bmY_-5jBQT8aYwO0V4BjDJLDuBbGmol7" target="_blank">
+  <img src="./Certificados/CertificadoCursoJavaUdemy.png" width="100" alt="Certificado Java COMPLETO - Udemy">
+</a>
 
 ### 👨‍💻 Tecnologias que eu Utilizo
 <div style="display: inline_block"><br>
