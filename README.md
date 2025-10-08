@@ -16,7 +16,7 @@
 </div>
 
 ### 🏅 Certificados
-<div style="display: flex; gap: 20px; flex-wrap: wrap;">
+<div style="display: flex; gap: 20px; flex-wrap: wrap; flex-direction: row; justify-content: center; align-items: center;">
   <p>
     <a href="https://drive.google.com/uc?id=1OipNefJiwoCi5cZx6Bu0G0yUFFktnSQ5" target="_blank">
       <img src="./Certificados/CertificadoCursoBancoDeDadosMySqlUdemy.png" width="150" style="border:none; outline:none;">
