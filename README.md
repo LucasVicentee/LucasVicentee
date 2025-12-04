@@ -10,8 +10,8 @@
 
 <div>
   <a href="https://github.com/LucasVicentee">
-    <img height="180em" src="https://github-stats-alpha.vercel.app/api?username=LucasVicentee&show_icons=true&theme=dark&include_all_commits=true"/>
-    <img height="180em" src="https://github-stats-alpha.vercel.app/api/top-langs/?username=LucasVicentee&layout=compact&langs_count=16&theme=dark"/>
+    <img height="180em" src="https://github-readme-stats-gamma-ashy-78.vercel.app/api?username=LucasVicentee&show_icons=true&theme=dark&include_all_commits=true"/>
+    <img height="180em" src="https://github-readme-stats-gamma-ashy-78.vercel.app/api/top-langs/?username=LucasVicentee&layout=compact&langs_count=16&theme=dark"/>
   </a>
 </div>
 
